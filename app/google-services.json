@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319112741989",
+    "firebase_url": "https://subratha-cc072.firebaseio.com",
+    "project_id": "subratha-cc072",
+    "storage_bucket": "subratha-cc072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319112741989:android:d2372967adc9c6d38bb28c",
+        "android_client_info": {
+          "package_name": "com.example.subratha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319112741989-fk2t9u5rt32skjpcbq2983c58ulc09i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subratha",
+            "certificate_hash": "c7f6880b2e84f8427d5ed96b141cb9b0b8a1b784"
+          }
+        },
+        {
+          "client_id": "319112741989-ftspboqf1t2t3rcq2rvbmnafboeu7j39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSs_WEM3iDLKJwN7MrTJElsx97DHrMoxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319112741989-ftspboqf1t2t3rcq2rvbmnafboeu7j39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
